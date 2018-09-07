@@ -1,4 +1,4 @@
-
+//kelas Dosen
 public class Dosen {
 	private int noID;
 	private String nama;
