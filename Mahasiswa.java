@@ -1,4 +1,4 @@
-
+//kelas Mahasiswa
 public class Mahasiswa {
 	private int npm;
 	private String nama;
